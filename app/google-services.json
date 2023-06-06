@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942672445949",
+    "firebase_url": "https://roadbuddy-bdaeb-default-rtdb.firebaseio.com",
+    "project_id": "roadbuddy-bdaeb",
+    "storage_bucket": "roadbuddy-bdaeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942672445949:android:0cfe519cbc20405c139994",
+        "android_client_info": {
+          "package_name": "com.eample.roadbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942672445949-amr9jt3uklju2f6qj97ghia1fggli65n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGwyZAqnOu1xVwZjB_oek-px8af9umao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942672445949-amr9jt3uklju2f6qj97ghia1fggli65n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

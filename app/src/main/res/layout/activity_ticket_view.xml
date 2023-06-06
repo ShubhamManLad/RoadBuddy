@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".TicketView">
+
+    <TextView
+        android:id="@+id/numberplateView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MH00AB1234"/>
+
+    <TextView
+        android:id="@+id/latitudeView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456789"/>
+
+    <TextView
+        android:id="@+id/longitudeView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="987654321"/>
+
+    <TextView
+        android:id="@+id/ai_verifiedView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Not Verified"/>
+
+    <TextView
+        android:id="@+id/rto_verifiedView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Not Verified"/>
+
+    <Button
+        android:id="@+id/rto_verified_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verify"/>
+
+
+</LinearLayout>

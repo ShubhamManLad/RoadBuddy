@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoadBuddy</string>
+    <string name="signup_string">Click here to create new Account</string>
+    <string name="login_string">Click here to login existing account</string>
+</resources>
